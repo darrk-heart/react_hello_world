@@ -13,7 +13,7 @@ import UserGreeting from "./components/UserGreeting";
 function App() {
   return (
     <div className="App">
-      <UserGreeting/>
+      <UserGreeting />
       {/* <ParentComponent/> */}
       {/* <FunctionClick/> */}
       {/* <ClassClick /> */}
