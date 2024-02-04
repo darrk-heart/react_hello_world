@@ -12,3 +12,8 @@ function KeyasIndex() {
 }
 
 export default KeyasIndex;
+
+// WHEN TO USE THE INDEX AS KEY 
+// 1. The items in your list do not have a unique ID 
+// 2. The list is a static list and will not change 
+// 3. The list will never be reordered or filtered 
