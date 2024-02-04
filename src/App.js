@@ -10,11 +10,13 @@ import EventBind from "./components/EventBind";
 import ParentComponent from "./components/ParentComponent";
 import UserGreeting from "./components/UserGreeting";
 import NameList from "./components/NameList";
+import KeyasIndex from "./components/KeyasIndex";
 
 function App() {
   return (
     <div className="App">
-      <NameList />
+      <KeyasIndex />
+      {/* <NameList /> */}
       {/* <UserGreeting /> */}
       {/* <ParentComponent/> */}
       {/* <FunctionClick/> */}
