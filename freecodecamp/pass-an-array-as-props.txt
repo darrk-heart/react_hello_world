@@ -1,7 +1,5 @@
 const List = (props) => {
-  { /* Change code below this line */ }
   return <p>{props.tasks.join(", ")}</p>
-  { /* Change code above this line */ }
 };
 
 class ToDo extends React.Component {
