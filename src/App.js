@@ -37,10 +37,10 @@ function App() {
         /* <Greet name="Kwadjo">This is children props</Greet>
       <Greet name="Lawer">
         <button>action</button>
-      </Greet>
+      </Greet>}
       
      
-      <Welcome name="Kwesi" />
+      {<Welcome name="Kwesi" />
       <Welcome name="Doe" /> */
       }
       {/* {<Welcome name="James" heroName="Body Man" />} */}
