@@ -6,9 +6,7 @@ class App extends React.Component {
   render() {
     return (
         <div>
-            { /* Change code below this line */ }
             <Welcome name ="Kwame" />
-            { /* Change code above this line */ }
         </div>
     );
   }
