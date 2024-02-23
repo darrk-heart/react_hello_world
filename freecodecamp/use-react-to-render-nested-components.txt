@@ -15,9 +15,7 @@ const TypesOfFruit = () => {
 const Fruits = () => {
   return (
     <div>
-      { /* Change code below this line */ }
       <TypesOfFruit/>
-      { /* Change code above this line */ }
     </div>
   );
 };
